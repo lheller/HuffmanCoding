@@ -1,3 +1,7 @@
+Lindsey Heller
+Columbia University
+Data Structures and Algorithms, Spring 2012
+
 HuffmanCoding
 =============
 
